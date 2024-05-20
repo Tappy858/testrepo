@@ -1,0 +1,4 @@
+Investigation:
+Django Class-based views
+And
+Django Function-based views
